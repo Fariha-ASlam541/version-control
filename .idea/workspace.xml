@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5700c3f0-6e1f-40cc-89e0-bea9caaf7779" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/file2" beforeDir="false" afterPath="$PROJECT_DIR$/file2" afterDir="false" />
-    </list>
+    <list default="true" id="5700c3f0-6e1f-40cc-89e0-bea9caaf7779" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,10 +83,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="420" y="94" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1614713593444" />
-    <state x="278" y="101" key="MultipleFileMergeDialog" timestamp="1614713824401">
+    <state x="120" y="50" key="MergeDialog" timestamp="1614714052429">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="278" y="101" key="MultipleFileMergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1614713824401" />
+    <state x="120" y="50" key="MergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1614714052429" />
+    <state x="278" y="101" key="MultipleFileMergeDialog" timestamp="1614714052446">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="278" y="101" key="MultipleFileMergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1614714052446" />
     <state width="498" height="398" key="SwitcherDM" timestamp="1614713615963">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
